@@ -46,5 +46,6 @@
 # os.chdir('folder1') #Изменение текущего каталога на "folder1"
 # os.chdir('..') #Вернуться в предыдущую директорию
 # os.makedirs()
+print('Hello world')
 
 
